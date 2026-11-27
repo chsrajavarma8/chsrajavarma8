@@ -7,8 +7,8 @@
 <a href="#"><img src="https://img.shields.io/github/followers/chsrajavarma8?style=for-the-badge&logo=github&logoColor=c0caf5&label=Followers&labelColor=1a1b27&color=7aa2f7" alt="Followers" /></a>
 <a href="#"><img src="https://img.shields.io/github/stars/chsrajavarma8?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=c0caf5&label=Stars&labelColor=1a1b27&color=7aa2f7" alt="Stars" /></a>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=chsrajavarma8&style=for-the-badge&color=7aa2f7&label=Profile+Views" alt="Profile views" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-rajavarma.site-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=c0caf5&labelColor=1a1b27" alt="Portfolio: rajavarma.site" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-chsrajavarma-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=c0caf5&labelColor=1a1b27" alt="LinkedIn: chsrajavarma" /></a>
+<a href="https://rajavarma.site"><img src="https://img.shields.io/badge/Portfolio-rajavarma.site-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=c0caf5&labelColor=1a1b27" alt="Portfolio: rajavarma.site" /></a>
+<a href="https://www.linkedin.com/in/chsrajavarma/"><img src="https://img.shields.io/badge/LinkedIn-chsrajavarma-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=c0caf5&labelColor=1a1b27" alt="LinkedIn: chsrajavarma" /></a>
 
 </div>
 
