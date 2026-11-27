@@ -12,15 +12,11 @@
 
 ## About Me
 
-<div align="center">
-
 Computer Science student specializing in Artificial Intelligence & Machine Learning.<br/>
 Passionate about building innovative solutions through AI, full-stack development, and automation.<br/>
 Exploring emerging technologies and transforming creative ideas into real-world products.<br/>
 Always learning, experimenting, and building projects that make an impact.<br/>
 Driven by curiosity, creativity, and a vision to build something meaningful.
-
-</div>
 
 ## Tech Stack
 
