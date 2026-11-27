@@ -14,12 +14,20 @@
 
 ## About Me
 
-```yaml
-name:      Chekuri Satyanarayana Raja Varma
-education: B.Tech CSE (AI & ML) @ GITAM University
-location:  Visakhapatnam, India
-focus:     [Full-Stack Web, Local LLM Tools, Automation, Applied AI, Web Security]
-```
+<div align="center">
+
+**Chekuri Satyanarayana Raja Varma**<br/>
+B.Tech CSE (AI & ML) &nbsp;·&nbsp; GITAM University &nbsp;·&nbsp; Visakhapatnam, India
+
+I build full-stack web platforms, privacy-first local AI tools and automation software.
+
+<a href="#"><img src="https://img.shields.io/badge/Full--Stack_Web-24283b?style=flat-square" alt="Full-Stack Web" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Local_LLM_Tools-24283b?style=flat-square" alt="Local LLM Tools" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Automation-24283b?style=flat-square" alt="Automation" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Applied_AI-24283b?style=flat-square" alt="Applied AI" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Web_Security-24283b?style=flat-square" alt="Web Security" /></a>
+
+</div>
 
 ## Tech Stack
 
@@ -38,21 +46,11 @@ focus:     [Full-Stack Web, Local LLM Tools, Automation, Applied AI, Web Securit
 
 <a href="#"><img src="https://streak-stats.demolab.com/?user=chsrajavarma8&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub streak" /></a>
 
-<a href="#"><img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chsrajavarma8&theme=tokyonight" alt="Repos per language" /></a>
-<a href="#"><img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chsrajavarma8&theme=tokyonight&utcOffset=5.5" alt="Productive time" /></a>
-
 <a href="#"><img src="https://github-trophies.vercel.app/?username=chsrajavarma8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=-1" alt="Trophies" /></a>
 
 <a href="#"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chsrajavarma8&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true" alt="Contribution activity graph" /></a>
 
 <a href="#"><img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" /></a>
-
-<a href="#">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chsrajavarma8/chsrajavarma8/output/github-snake-dark.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/chsrajavarma8/chsrajavarma8/output/github-snake.svg" alt="Contribution snake" />
-</picture>
-</a>
 
 </div>
 
