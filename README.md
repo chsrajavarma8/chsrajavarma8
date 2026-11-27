@@ -4,8 +4,6 @@
 
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&repeat=true&width=650&lines=Full-Stack+Web+Developer;Local+LLM+%26+AI+Tooling;Automation+%26+Browser+Extensions;Applied+AI+Algorithms;Web+Application+Security" alt="Typing SVG" /></a>
 
-<a href="#"><img src="https://img.shields.io/github/followers/chsrajavarma8?style=for-the-badge&logo=github&logoColor=c0caf5&label=Followers&labelColor=1a1b27&color=7aa2f7" alt="Followers" /></a>
-<a href="#"><img src="https://img.shields.io/github/stars/chsrajavarma8?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=c0caf5&label=Stars&labelColor=1a1b27&color=7aa2f7" alt="Stars" /></a>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=chsrajavarma8&style=for-the-badge&color=7aa2f7&label=Profile+Views" alt="Profile views" /></a>
 <a href="https://rajavarma.site"><img src="https://img.shields.io/badge/Portfolio-rajavarma.site-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=c0caf5&labelColor=1a1b27" alt="Portfolio: rajavarma.site" /></a>
 <a href="https://www.linkedin.com/in/chsrajavarma/"><img src="https://img.shields.io/badge/LinkedIn-chsrajavarma-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=c0caf5&labelColor=1a1b27" alt="LinkedIn: chsrajavarma" /></a>
@@ -16,16 +14,11 @@
 
 <div align="center">
 
-**Chekuri Satyanarayana Raja Varma**<br/>
-B.Tech CSE (AI & ML) &nbsp;·&nbsp; GITAM University &nbsp;·&nbsp; Visakhapatnam, India
-
-I build full-stack web platforms, privacy-first local AI tools and automation software.
-
-<a href="#"><img src="https://img.shields.io/badge/Full--Stack_Web-24283b?style=flat-square" alt="Full-Stack Web" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Local_LLM_Tools-24283b?style=flat-square" alt="Local LLM Tools" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Automation-24283b?style=flat-square" alt="Automation" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Applied_AI-24283b?style=flat-square" alt="Applied AI" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Web_Security-24283b?style=flat-square" alt="Web Security" /></a>
+Computer Science student specializing in Artificial Intelligence & Machine Learning.<br/>
+Passionate about building innovative solutions through AI, full-stack development, and automation.<br/>
+Exploring emerging technologies and transforming creative ideas into real-world products.<br/>
+Always learning, experimenting, and building projects that make an impact.<br/>
+Driven by curiosity, creativity, and a vision to build something meaningful.
 
 </div>
 
